@@ -10,3 +10,4 @@ JAVASCRIPT,
 
 https://itsadrih.github.io/Code-Quiz/?
 
+(Note: I received some help from a friend who knows software dev in the JavaScript file.)
