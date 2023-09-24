@@ -1,2 +1,2 @@
 # Code-Quiz
-Quiz on software development.
+This is a quiz on software development.
