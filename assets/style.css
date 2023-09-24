@@ -1,0 +1,60 @@
+.highScore {
+    display: flex;
+    justify-content: left;
+    color: rgb(0, 255, 72);
+    font: 28px;
+    }
+    
+    .container1 {
+        display: flex;
+        justify-content: center;
+    }
+    
+    body {
+        background-color: #ffffff; 
+    }
+    
+    h1, 
+    h2 {
+        color: #f368c0;
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    a {
+        color: #3290A6;
+        font-family: 'Archivo', sans-serif;
+    }
+    
+    a:hover {
+        color: #99B8BF;
+        font-family: 'Archivo', sans-serif;
+    }
+    
+    .btn:focus, .btn:active, .btn:visited {
+        outline: none !important;
+        box-shadow: none !important;
+        background-color: #ff48ed;
+    }
+    
+    #finalScore {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+    }
+    
+    span {
+        font-family: 'Archivo', sans-serif;
+    }
+    
+    p {
+        font-family: 'Archivo', sans-serif;
+    }
+    
+    #questionTitle {
+        font-size: 20px;
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    #answerCheck {
+        font-style: italic;
+        color: #269057;
+    }

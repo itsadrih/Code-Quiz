@@ -1,2 +1,2 @@
 # Code-Quiz
-This is a quiz on Movies.
+This is a quiz on Movie.
